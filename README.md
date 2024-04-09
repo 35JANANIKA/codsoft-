@@ -1,1 +1,1 @@
-Ffruit shop landing page using html and css
+Fruit shop landing page using html and css
